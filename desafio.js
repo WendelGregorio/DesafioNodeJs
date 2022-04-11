@@ -6,4 +6,4 @@
 *O segundo irá importar a função  e passar a flag desejada.
 *
 *Iremos roda no terminal o segundo arquivo passadom as flags --name --greeting
-*para que seja impresso no terminal a saudação e o nome da pessoa.
+*para que seja impresso no terminal a saudação e o nome da pessoa.*/
